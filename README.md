@@ -14,6 +14,7 @@
 
 Потом пойдёт процесс восстановления из образа, когда всё закончится вы просто перезагружаете ваш ПК, и устанавливаете Mac OS
 Удачи вам!
+
 [ENG]
 
 Everyone is welcome, and here I will post images of Hackintosh for you, there will be instructions below.✔
